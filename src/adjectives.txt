@@ -1610,7 +1610,8 @@ gratified
 gratifying
 grating
 gratis
-gratuitous	grave
+gratuitous
+grave
 gray
 greasy
 great
@@ -3224,7 +3225,8 @@ renegotiable
 renewable
 rented
 repairable
-repaired	repeatable
+repaired
+repeatable
 repeated
 repentant
 repetitious
