@@ -106,7 +106,7 @@ Shy
 Silly
 Sincere
 Smart
-Socialable
+Sociable
 Straight-Forward
 Sympathetic
 Talkative
@@ -373,10 +373,8 @@ Cavalier
 Certifiable
 Challenged
 Challenging
-Chauvinistic
 Cheap
 Cheerless
-Chemical
 Chicken
 Childish
 Chilling
@@ -401,7 +399,7 @@ Coarse
 Cocky
 Coercive
 Cold
-Coldhearted
+Cold-hearted
 Colorless
 Combative
 Commercial
@@ -441,7 +439,7 @@ Corporate
 Corrosive
 Corrupt
 Corrupting
-Corruptive
+Corrupting
 Costly
 Cowardly
 Cowering
@@ -531,7 +529,6 @@ Depressive
 Deprived
 Deranged
 Derivative
-Derogative
 Derogatory
 Deserted
 Desolate

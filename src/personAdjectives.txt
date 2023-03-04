@@ -90,7 +90,7 @@ demure
 dependent
 depressed
 devoted
-dextrous
+dexterous
 diligent
 direct
 dirty
@@ -131,6 +131,7 @@ ferocious
 fervent
 fiery
 flabby
+flabbergasted
 flaky
 flashy
 frank
@@ -240,6 +241,7 @@ orderly
 ostentatious
 outgoing
 outspoken
+parsimonious
 passionate
 passive
 paternal
