@@ -1189,7 +1189,7 @@ Escalating
 Esoteric
 Essential
 Established
-Estimated
+Estimable
 Estranged
 Eternal
 Ethereal
@@ -2841,9 +2841,11 @@ Pedestrian
 Peerless
 Peeved
 Peevish
+Pejorative
 Penetrable
 Penetrating
 Pensive
+Penurious
 Peppery
 Perceivable
 Perceptible
@@ -2880,6 +2882,7 @@ Perturbed
 Perturbing
 Pervasive
 Perverse
+Pessimal
 Pessimistic
 Petite
 Pettish

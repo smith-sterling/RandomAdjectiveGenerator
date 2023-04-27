@@ -2,41 +2,42 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.security.SecureRandom;
 import java.util.*;
 
 public class Main {
 
-    public static File file = new File("./src/adjectives.txt");
-    public static File file2 = new File("./src/otherList.txt");
-    public static File file3 = new File("./src/personAdjectives.txt");
-    public static File file4 = new File("./src/untrimmedMasterList.txt");
-    public static File file5 = new File("./src/masterList.txt");
+    public static File file = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/adjectives.txt");
+    public static File file2 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/otherList.txt");
+    public static File file3 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/personAdjectives.txt");
+    public static File file4 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/untrimmedMasterList.txt");
+    public static File file5 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/masterList.txt");
 
     public static void main(String[] args) {
-        /*
         if (!file.exists()) System.out.println("No file1");
         if (!file2.exists()) System.out.println("No file2");
         if (!file3.exists()) System.out.println("No file3");
         if (!file4.exists()) System.out.println("No file4");
         if (!file5.exists()) System.out.println("No file5");
+        /*
         Set<String> strings = new TreeSet<>();
         Scanner scanner = null;
         try {scanner = new Scanner(file);} catch(FileNotFoundException ignore) {}
         while (scanner.hasNextLine()) strings.add(capFirstLetter(scanner.nextLine()));
         System.out.println("After adjectives: " + strings.size());
-    
+
         try {scanner = new Scanner(file2);} catch(FileNotFoundException ignore) {}
         while (scanner.hasNextLine()) strings.add(capFirstLetter(scanner.nextLine()));
         System.out.println("After otherList: " + strings.size());
-    
+
         try {scanner = new Scanner(file3);} catch(FileNotFoundException ignore) {}
         while (scanner.hasNextLine()) strings.add(capFirstLetter(scanner.nextLine()));
         System.out.println("After personAdjectives: " + strings.size());
-    
+
         try {scanner = new Scanner(file4);} catch(FileNotFoundException ignore) {}
         while (scanner.hasNextLine()) strings.add(capFirstLetter(scanner.nextLine()));
         System.out.println("After untrimmedMasterList :" + strings.size());
-        
+
         try (FileWriter writer = new FileWriter(file5, false)) {
             for (String s : strings) {
                 writer.append(s).append("\n");
@@ -45,10 +46,10 @@ public class Main {
             System.out.println("didn't work");
             e.printStackTrace();
         }*/
-    
+
         // TODO: 3/28/23 we could add definitions to the words already? a lot more work, and not that much to gain,
         //  but an option at least
-        
+
         try {
             Set<String> strings = new TreeSet<>();
 //            if (file.exists()) {
@@ -82,8 +83,7 @@ public class Main {
 //            }
             ArrayList<String> array = new ArrayList<>(strings);
             while (strings.size() > 0) {
-                String s = array.get(new Random().nextInt(strings.size()));
-                
+                String s = array.get(new SecureRandom().nextInt(strings.size()));
                 if (isNewWord(s)) {
                     System.out.println(s);
                     writeToHistory(s);
@@ -93,13 +93,16 @@ public class Main {
 
         } catch(FileNotFoundException e) {
             System.out.println("Error");
+            System.out.println(e.getMessage());
+            e.printStackTrace();
         }
     }
     
     public static boolean isNewWord(String s) throws FileNotFoundException {
-        Scanner scanner = new Scanner(new File("src/history.txt"));
+        Scanner scanner = new Scanner(new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/history.txt"));
         while (scanner.hasNextLine()) {
-            if (scanner.nextLine().trim().equalsIgnoreCase(s)) {
+            //note that history.txt has the words of the day on their own lines, so there is no split() needed, only trim
+            if (scanner.nextLine().strip().equalsIgnoreCase(s)) {
                 return false;
             }
         }
@@ -159,12 +162,12 @@ public class Main {
 
     public static void writeToHistory(String adjective) {
         try {
-            File myObj = new File("src/history.txt");
-            if (myObj.createNewFile()) {
-                System.out.println("File created: " + myObj.getName());
+            File history = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/history.txt");
+            if (history.createNewFile()) {
+                System.out.println("File created: " + history.getName());
             }
 
-            FileWriter writer = new FileWriter(myObj, true);
+            FileWriter writer = new FileWriter(history, true);
             writer.append("\nThe adjective of the day for ");
             writer.append(stringify(new Date())).append(", is:\n\t");
             writer.append(adjective);
