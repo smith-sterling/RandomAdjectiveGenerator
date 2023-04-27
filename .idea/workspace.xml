@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14788734-15fb-42e4-8bd8-08d043c23b0e" name="Changes" comment="updated the format of the history file and the writeToHistory method. &#10;Also generated a masterlist, and started trimming that down. That'll take a while though, and I'm mighty busy... it works for now...">
-      <change afterPath="$PROJECT_DIR$/src/listOfDaysDone.txt" afterDir="false" />
+    <list default="true" id="14788734-15fb-42e4-8bd8-08d043c23b0e" name="Changes" comment="I made files absolute paths because I wanted to run this from the terminal, and that seemed to make it work&#10;&#10;I also wanted to add a way to check that I haven't already gotten one today, and if so, just get that one">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/history.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/history.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/masterList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/masterList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/listOfDaysDone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/listOfDaysDone.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680280200386</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="I made files absolute paths because I wanted to run this from the terminal, and that seemed to make it work&#10;&#10;I also wanted to add a way to check that I haven't already gotten one today, and if so, just get that one">
+      <created>1682607247998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682607247998</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,20 +153,16 @@
     <MESSAGE value="Added a history and some other half-built stuff" />
     <MESSAGE value="Basic updates and I guess an updated history" />
     <MESSAGE value="updated the format of the history file and the writeToHistory method. &#10;Also generated a masterlist, and started trimming that down. That'll take a while though, and I'm mighty busy... it works for now..." />
-    <option name="LAST_COMMIT_MESSAGE" value="updated the format of the history file and the writeToHistory method. &#10;Also generated a masterlist, and started trimming that down. That'll take a while though, and I'm mighty busy... it works for now..." />
+    <MESSAGE value="I made files absolute paths because I wanted to run this from the terminal, and that seemed to make it work&#10;&#10;I also wanted to add a way to check that I haven't already gotten one today, and if so, just get that one" />
+    <option name="LAST_COMMIT_MESSAGE" value="I made files absolute paths because I wanted to run this from the terminal, and that seemed to make it work&#10;&#10;I also wanted to add a way to check that I haven't already gotten one today, and if so, just get that one" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>145</line>
+          <line>142</line>
           <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
