@@ -1,16 +1,15 @@
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.awt.*;
+import java.io.*;
 import java.security.SecureRandom;
 import java.util.*;
+import java.util.List;
 
 public class Main {
 
-    private static final File file = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/adjectives.txt");
-    private static final File file2 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/otherList.txt");
-    private static final File file3 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/personAdjectives.txt");
-    private static final File file4 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/untrimmedMasterList.txt");
+//    private static final File file = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/adjectives.txt");
+//    private static final File file2 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/otherList.txt");
+//    private static final File file3 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/personAdjectives.txt");
+//    private static final File file4 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/untrimmedMasterList.txt");
     private static final File file5 = new File("/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator/src/masterList.txt");
 
     public static void main(String[] args) {
@@ -22,13 +21,16 @@ public class Main {
                 return;
             }
             
-            List<String> words = listWordsFromFiles(file2, file3);
+            List<String> words = listWordsFromFiles(file5);
             while (! words.isEmpty()) { //"while" and not "if" in case you pick a repeat word
                 String s = words.get(new SecureRandom().nextInt(words.size()));
                 if (isNewWord(s)) {
-                    System.out.printf("Your word for the day is%n\t%s%n", s);
+                    System.out.printf("Your word for the day is%n\t%s%s%n", "\033[0;36m", s + "\033[0m");
                     writeToHistory(s);
                     break;
+                } else {
+                    words.remove(s);
+                    // TODO: 6/15/23 if words.isEmpty write to new file and start checking that one
                 }
             }
 
@@ -39,10 +41,10 @@ public class Main {
         }
     }
     private static void checkFilesExist() {
-        if (!file.exists()) System.out.println("No file1");
-        if (!file2.exists()) System.out.println("No file2");
-        if (!file3.exists()) System.out.println("No file3");
-        if (!file4.exists()) System.out.println("No file4");
+//        if (!file.exists()) System.out.println("No file1");
+//        if (!file2.exists()) System.out.println("No file2");
+//        if (!file3.exists()) System.out.println("No file3");
+//        if (!file4.exists()) System.out.println("No file4");
         if (!file5.exists()) System.out.println("No file5");
     }
     private static boolean todayHasBeenDone() throws FileNotFoundException {
@@ -63,14 +65,14 @@ public class Main {
             lastWord = scanner.nextLine();
         }
         
-        System.out.println("You already got a word for today. That word was:\n" + lastWord);
+        System.out.println("You already got a word for today. That word was:\n" + "\033[0;36m" + lastWord + "\033[0m");
     }
     
     private static List<String> listWordsFromFiles(File...files) throws FileNotFoundException {
         Set<String> strings = new TreeSet<>();
         for (File file : files) {
             if (file.exists()) {
-                Scanner scanner = new Scanner(file2);
+                Scanner scanner = new Scanner(file);
                 while (scanner.hasNextLine()) strings.add(capFirstLetter(scanner.nextLine()));
             }
         }

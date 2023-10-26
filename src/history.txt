@@ -162,3 +162,365 @@ The adjective of the day for Wednesday, 26 April 2023, generated at 06:30, is:
 	Balanced
 The adjective of the day for Thursday, 27 April 2023, generated at 07:02, is:
 	Corrupting
+The adjective of the day for Friday, 28 April 2023, generated at 07:30, is:
+	Sick
+The adjective of the day for Saturday, 29 April 2023, generated at 00:05, is:
+	Unkind
+The adjective of the day for Sunday, 30 April 2023, generated at 09:45, is:
+	Crusty
+The adjective of the day for Monday, 01 May 2023, generated at 00:14, is:
+	Dissimilar
+The adjective of the day for Tuesday, 02 May 2023, generated at 06:51, is:
+	Generic
+The adjective of the day for Wednesday, 03 May 2023, generated at 06:37, is:
+	Callous
+The adjective of the day for Thursday, 04 May 2023, generated at 06:52, is:
+	Aching
+The adjective of the day for Friday, 05 May 2023, generated at 06:46, is:
+	Dowdy
+The adjective of the day for Saturday, 06 May 2023, generated at 05:54, is:
+	Dynamic
+The adjective of the day for Sunday, 07 May 2023, generated at 06:53, is:
+	Erratic
+The adjective of the day for Monday, 08 May 2023, generated at 05:38, is:
+	Cloistered
+The adjective of the day for Tuesday, 09 May 2023, generated at 05:41, is:
+	Apprehensive
+The adjective of the day for Wednesday, 10 May 2023, generated at 05:48, is:
+	Ready
+The adjective of the day for Thursday, 11 May 2023, generated at 05:36, is:
+	Clumsy
+The adjective of the day for Friday, 12 May 2023, generated at 05:16, is:
+	Overcritical
+The adjective of the day for Saturday, 13 May 2023, generated at 18:27, is:
+	Exposed
+The adjective of the day for Sunday, 14 May 2023, generated at 08:36, is:
+	Exasperating
+The adjective of the day for Monday, 15 May 2023, generated at 08:08, is:
+	Cruel
+The adjective of the day for Tuesday, 16 May 2023, generated at 08:47, is:
+	Dreary
+The adjective of the day for Wednesday, 17 May 2023, generated at 09:14, is:
+	Despondent
+The adjective of the day for Thursday, 18 May 2023, generated at 08:05, is:
+	Emotional
+The adjective of the day for Friday, 19 May 2023, generated at 08:43, is:
+	Immodest
+The adjective of the day for Saturday, 20 May 2023, generated at 07:08, is:
+	Fractious
+The adjective of the day for Sunday, 21 May 2023, generated at 11:23, is:
+	Corrosive
+The adjective of the day for Monday, 22 May 2023, generated at 10:36, is:
+	Fawning
+The adjective of the day for Tuesday, 23 May 2023, generated at 08:47, is:
+	Befuddled
+The adjective of the day for Wednesday, 24 May 2023, generated at 12:42, is:
+	Nice
+The adjective of the day for Thursday, 25 May 2023, generated at 09:24, is:
+	Drowsy
+The adjective of the day for Friday, 26 May 2023, generated at 10:00, is:
+	Disappointing
+The adjective of the day for Saturday, 27 May 2023, generated at 13:28, is:
+	Nasty
+The adjective of the day for Sunday, 28 May 2023, generated at 08:37, is:
+	Faithful
+The adjective of the day for Monday, 29 May 2023, generated at 09:04, is:
+	Polite
+The adjective of the day for Tuesday, 30 May 2023, generated at 07:36, is:
+	Biased
+The adjective of the day for Wednesday, 31 May 2023, generated at 08:42, is:
+	Dreadful
+The adjective of the day for Thursday, 01 June 2023, generated at 10:06, is:
+	Brainless
+The adjective of the day for Friday, 02 June 2023, generated at 10:21, is:
+	Dependent
+The adjective of the day for Saturday, 03 June 2023, generated at 00:05, is:
+	Disobedient
+The adjective of the day for Sunday, 04 June 2023, generated at 00:00, is:
+	Hesitant
+The adjective of the day for Monday, 05 June 2023, generated at 08:18, is:
+	Calm
+The adjective of the day for Tuesday, 06 June 2023, generated at 06:05, is:
+	Fumbling
+The adjective of the day for Wednesday, 07 June 2023, generated at 08:31, is:
+	Bright
+The adjective of the day for Thursday, 08 June 2023, generated at 06:33, is:
+	Crowded
+The adjective of the day for Friday, 09 June 2023, generated at 07:31, is:
+	Challenging
+The adjective of the day for Saturday, 10 June 2023, generated at 07:44, is:
+	Illegible
+The adjective of the day for Sunday, 11 June 2023, generated at 00:00, is:
+	Frozen
+The adjective of the day for Monday, 12 June 2023, generated at 08:46, is:
+	Fearsome
+The adjective of the day for Tuesday, 13 June 2023, generated at 07:30, is:
+	Careless
+The adjective of the day for Wednesday, 14 June 2023, generated at 07:45, is:
+	Guarded
+The adjective of the day for Thursday, 15 June 2023, generated at 08:20, is:
+	Boastful
+The adjective of the day for Friday, 16 June 2023, generated at 08:06, is:
+	Giving
+The adjective of the day for Saturday, 17 June 2023, generated at 00:07, is:
+	Courageous
+The adjective of the day for Sunday, 18 June 2023, generated at 07:31, is:
+	Endangered
+The adjective of the day for Monday, 19 June 2023, generated at 06:01, is:
+	Dismal
+The adjective of the day for Tuesday, 20 June 2023, generated at 06:01, is:
+	Pompous
+The adjective of the day for Wednesday, 21 June 2023, generated at 06:00, is:
+	Feverish
+The adjective of the day for Thursday, 22 June 2023, generated at 06:01, is:
+	Disdainful
+The adjective of the day for Friday, 23 June 2023, generated at 07:02, is:
+	Formulaic
+The adjective of the day for Saturday, 24 June 2023, generated at 08:40, is:
+	Distressing
+The adjective of the day for Sunday, 25 June 2023, generated at 08:38, is:
+	Feckless
+The adjective of the day for Monday, 26 June 2023, generated at 06:00, is:
+	Discriminatory
+The adjective of the day for Tuesday, 27 June 2023, generated at 06:42, is:
+	Controllable
+The adjective of the day for Wednesday, 28 June 2023, generated at 04:24, is:
+	Amusing
+The adjective of the day for Thursday, 29 June 2023, generated at 08:17, is:
+	Pro-active
+The adjective of the day for Friday, 30 June 2023, generated at 07:31, is:
+	Hazy
+The adjective of the day for Saturday, 01 July 2023, generated at 08:00, is:
+	Facetious
+The adjective of the day for Sunday, 02 July 2023, generated at 00:01, is:
+	Understanding
+The adjective of the day for Monday, 03 July 2023, generated at 05:32, is:
+	Disagreeable
+The adjective of the day for Tuesday, 04 July 2023, generated at 06:02, is:
+	Picky
+The adjective of the day for Wednesday, 05 July 2023, generated at 06:01, is:
+	Crammed
+The adjective of the day for Thursday, 06 July 2023, generated at 06:01, is:
+	Disheartened
+The adjective of the day for Friday, 07 July 2023, generated at 06:01, is:
+	Humorous
+The adjective of the day for Saturday, 08 July 2023, generated at 09:11, is:
+	Blurry
+The adjective of the day for Sunday, 09 July 2023, generated at 00:11, is:
+	Boring
+The adjective of the day for Monday, 10 July 2023, generated at 06:01, is:
+	Futile
+The adjective of the day for Tuesday, 11 July 2023, generated at 06:00, is:
+	Agonizing
+The adjective of the day for Wednesday, 12 July 2023, generated at 06:01, is:
+	Concerning
+The adjective of the day for Thursday, 13 July 2023, generated at 05:17, is:
+	Degraded
+The adjective of the day for Friday, 14 July 2023, generated at 06:02, is:
+	Despised
+The adjective of the day for Saturday, 15 July 2023, generated at 06:01, is:
+	Cancerous
+The adjective of the day for Sunday, 16 July 2023, generated at 08:00, is:
+	Eerie
+The adjective of the day for Monday, 17 July 2023, generated at 06:00, is:
+	Frilly
+The adjective of the day for Tuesday, 18 July 2023, generated at 06:02, is:
+	Loyal
+The adjective of the day for Wednesday, 19 July 2023, generated at 06:01, is:
+	Dishonorable
+The adjective of the day for Thursday, 20 July 2023, generated at 06:31, is:
+	Displeasing
+The adjective of the day for Friday, 21 July 2023, generated at 07:41, is:
+	Detached
+The adjective of the day for Saturday, 22 July 2023, generated at 08:12, is:
+	Inappropriate
+The adjective of the day for Sunday, 23 July 2023, generated at 08:43, is:
+	Communicative
+The adjective of the day for Monday, 24 July 2023, generated at 05:30, is:
+	Choppy
+The adjective of the day for Tuesday, 25 July 2023, generated at 00:17, is:
+	Disappearing
+The adjective of the day for Wednesday, 26 July 2023, generated at 05:17, is:
+	Grating
+The adjective of the day for Thursday, 27 July 2023, generated at 05:42, is:
+	Untidy
+The adjective of the day for Friday, 28 July 2023, generated at 05:17, is:
+	Tidy
+The adjective of the day for Saturday, 29 July 2023, generated at 05:31, is:
+	Helpful
+The adjective of the day for Sunday, 30 July 2023, generated at 07:21, is:
+	Batty
+The adjective of the day for Monday, 31 July 2023, generated at 05:16, is:
+	Halting
+The adjective of the day for Tuesday, 01 August 2023, generated at 05:51, is:
+	Feared
+The adjective of the day for Wednesday, 02 August 2023, generated at 05:53, is:
+	Tyrannical
+The adjective of the day for Thursday, 03 August 2023, generated at 05:41, is:
+	Deceitful
+The adjective of the day for Friday, 04 August 2023, generated at 08:20, is:
+	Garrulous
+The adjective of the day for Saturday, 05 August 2023, generated at 12:46, is:
+	Heartbroken
+The adjective of the day for Sunday, 06 August 2023, generated at 07:00, is:
+	Crying
+The adjective of the day for Monday, 07 August 2023, generated at 07:28, is:
+	Blank
+The adjective of the day for Tuesday, 08 August 2023, generated at 05:59, is:
+	Grotesque
+The adjective of the day for Wednesday, 09 August 2023, generated at 06:01, is:
+	Filtered
+The adjective of the day for Thursday, 10 August 2023, generated at 04:55, is:
+	Illegal
+The adjective of the day for Friday, 11 August 2023, generated at 05:44, is:
+	Bigoted
+The adjective of the day for Saturday, 12 August 2023, generated at 00:00, is:
+	Gruff
+The adjective of the day for Sunday, 13 August 2023, generated at 08:47, is:
+	Brash
+The adjective of the day for Monday, 14 August 2023, generated at 05:44, is:
+	Flippant
+The adjective of the day for Tuesday, 15 August 2023, generated at 06:10, is:
+	Incendiary
+The adjective of the day for Wednesday, 16 August 2023, generated at 06:07, is:
+	Modest
+The adjective of the day for Thursday, 17 August 2023, generated at 05:16, is:
+	Frightening
+The adjective of the day for Friday, 18 August 2023, generated at 13:18, is:
+	Colorful
+The adjective of the day for Saturday, 19 August 2023, generated at 08:59, is:
+	Challenged
+The adjective of the day for Sunday, 20 August 2023, generated at 09:20, is:
+	Kooky
+The adjective of the day for Monday, 21 August 2023, generated at 00:00, is:
+	Inattentive
+The adjective of the day for Tuesday, 22 August 2023, generated at 07:29, is:
+	Brooding
+The adjective of the day for Wednesday, 23 August 2023, generated at 05:52, is:
+	Irrational
+The adjective of the day for Thursday, 24 August 2023, generated at 07:56, is:
+	Silly
+The adjective of the day for Friday, 25 August 2023, generated at 05:31, is:
+	Contrarian
+The adjective of the day for Saturday, 26 August 2023, generated at 06:38, is:
+	Frank
+The adjective of the day for Sunday, 27 August 2023, generated at 00:00, is:
+	Hated
+The adjective of the day for Monday, 28 August 2023, generated at 05:50, is:
+	Common
+The adjective of the day for Tuesday, 29 August 2023, generated at 05:46, is:
+	Incorrect
+The adjective of the day for Wednesday, 30 August 2023, generated at 05:23, is:
+	Humorless
+The adjective of the day for Thursday, 31 August 2023, generated at 05:22, is:
+	Impersonal
+The adjective of the day for Friday, 01 September 2023, generated at 04:56, is:
+	Droopy
+The adjective of the day for Saturday, 02 September 2023, generated at 09:08, is:
+	Bookish
+The adjective of the day for Sunday, 03 September 2023, generated at 10:01, is:
+	Gentle
+The adjective of the day for Monday, 04 September 2023, generated at 05:16, is:
+	Heavy
+The adjective of the day for Tuesday, 05 September 2023, generated at 05:30, is:
+	Decrepit
+The adjective of the day for Wednesday, 06 September 2023, generated at 05:25, is:
+	Exciting
+The adjective of the day for Thursday, 07 September 2023, generated at 06:01, is:
+	Culpable
+The adjective of the day for Friday, 08 September 2023, generated at 06:14, is:
+	Drooping
+The adjective of the day for Saturday, 09 September 2023, generated at 07:30, is:
+	Down
+The adjective of the day for Sunday, 10 September 2023, generated at 07:37, is:
+	Wild
+The adjective of the day for Monday, 11 September 2023, generated at 05:33, is:
+	Corny
+The adjective of the day for Tuesday, 12 September 2023, generated at 07:22, is:
+	Diplomatic
+The adjective of the day for Wednesday, 13 September 2023, generated at 05:41, is:
+	Adaptable
+The adjective of the day for Thursday, 14 September 2023, generated at 06:13, is:
+	Biting
+The adjective of the day for Friday, 15 September 2023, generated at 06:56, is:
+	Frowning
+The adjective of the day for Saturday, 16 September 2023, generated at 11:47, is:
+	Falsified
+The adjective of the day for Sunday, 17 September 2023, generated at 00:00, is:
+	Gluttonous
+The adjective of the day for Monday, 18 September 2023, generated at 06:59, is:
+	Foolish
+The adjective of the day for Tuesday, 19 September 2023, generated at 06:39, is:
+	Hateful
+The adjective of the day for Wednesday, 20 September 2023, generated at 06:01, is:
+	Temperamental
+The adjective of the day for Thursday, 21 September 2023, generated at 06:16, is:
+	Chunky
+The adjective of the day for Friday, 22 September 2023, generated at 06:07, is:
+	Evil
+The adjective of the day for Saturday, 23 September 2023, generated at 09:08, is:
+	Pessimistic
+The adjective of the day for Sunday, 24 September 2023, generated at 00:00, is:
+	Ill
+The adjective of the day for Monday, 25 September 2023, generated at 04:17, is:
+	Hasty
+The adjective of the day for Tuesday, 26 September 2023, generated at 06:25, is:
+	Inauspicious
+The adjective of the day for Wednesday, 27 September 2023, generated at 05:58, is:
+	Deranged
+The adjective of the day for Thursday, 28 September 2023, generated at 06:02, is:
+	Impulsive
+The adjective of the day for Friday, 29 September 2023, generated at 06:37, is:
+	Distracted
+The adjective of the day for Saturday, 30 September 2023, generated at 00:07, is:
+	Absurd
+The adjective of the day for Sunday, 01 October 2023, generated at 09:24, is:
+	Dire
+The adjective of the day for Monday, 02 October 2023, generated at 06:36, is:
+	Lovable
+The adjective of the day for Tuesday, 03 October 2023, generated at 06:38, is:
+	Floppy
+The adjective of the day for Wednesday, 04 October 2023, generated at 06:10, is:
+	Cranky
+The adjective of the day for Thursday, 05 October 2023, generated at 06:58, is:
+	Industrious
+The adjective of the day for Friday, 06 October 2023, generated at 07:06, is:
+	Persistent
+The adjective of the day for Saturday, 07 October 2023, generated at 07:11, is:
+	Prejudiced
+The adjective of the day for Sunday, 08 October 2023, generated at 08:50, is:
+	Incomprehensible
+The adjective of the day for Monday, 09 October 2023, generated at 04:09, is:
+	Enthusiastic
+The adjective of the day for Tuesday, 10 October 2023, generated at 06:45, is:
+	Resourceful
+The adjective of the day for Wednesday, 11 October 2023, generated at 06:38, is:
+	Erroneous
+The adjective of the day for Thursday, 12 October 2023, generated at 05:55, is:
+	Fried
+The adjective of the day for Friday, 13 October 2023, generated at 06:53, is:
+	Fair
+The adjective of the day for Saturday, 14 October 2023, generated at 00:04, is:
+	Furious
+The adjective of the day for Sunday, 15 October 2023, generated at 09:08, is:
+	Accidental
+The adjective of the day for Monday, 16 October 2023, generated at 06:52, is:
+	Pioneering
+The adjective of the day for Tuesday, 17 October 2023, generated at 07:17, is:
+	Exhausting
+The adjective of the day for Wednesday, 18 October 2023, generated at 05:54, is:
+	Famished
+The adjective of the day for Thursday, 19 October 2023, generated at 06:57, is:
+	Inefficient
+The adjective of the day for Friday, 20 October 2023, generated at 06:51, is:
+	Commercial
+The adjective of the day for Saturday, 21 October 2023, generated at 07:31, is:
+	Horrified
+The adjective of the day for Sunday, 22 October 2023, generated at 07:57, is:
+	Crumbly
+The adjective of the day for Monday, 23 October 2023, generated at 05:52, is:
+	Funny
+The adjective of the day for Tuesday, 24 October 2023, generated at 07:16, is:
+	Cumbersome
+The adjective of the day for Wednesday, 25 October 2023, generated at 05:41, is:
+	Astringent

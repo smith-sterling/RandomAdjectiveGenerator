@@ -1,19 +1,27 @@
+Abaft
 Abandoned
+Abashed
+Aberrant
 Abhorrent
 Abiding
 Abject
+Ablaze
 Able
 Able-bodied
 Abnormal
+Aboard
+Aboriginal
+Abortive
 Abounding
 Above-average
 Abrasive
 Abrupt
 Absent
 Absent-minded
-                                        Absolute (existing not in relation to other things?)
+Absolute
 Absorbed
 Absorbing
+Abstemious
 Abstracted
 Absurd
 Abundant
@@ -23,7 +31,7 @@ Academic
 Acceptable
 Accepting
 Accessible
-                                        Accidental (seems kind of rude to say they were an accident)
+Accidental
 Acclaimed
 Accommodating
 Accompanying
@@ -31,16 +39,19 @@ Accountable
 Accurate
 Accused
 Accusing
-                    Acerbic (means speaks in a sharp and forthright manner best I can interpret)
+Acerbic
 Aching
-                    Acid (synonym for acerbic)
-                    Acidic (synonym for acerbic)
+Acid
+Acidic
 Acknowledged
+Acoustic
 Acrid
 Acrimonious
 Acrobatic
 Active
-                    Actual (means they live in the moment)
+Actual
+Actually
+Ad hoc
 Adamant
 Adaptable
 Adaptive
@@ -48,8 +59,9 @@ Addicted
 Addictive
 Adept
 Adequate
-                    Adhesive (doesn't really make sense, but you could still have fun with that)
-                    Adhoc (created for a particular purpose -- doesn't really make sense)
+Adhesive
+Adhoc
+Adjoining
 Adjustable
 Administrative
 Admirable
@@ -62,7 +74,7 @@ Advanced
 Adventurous
 Adversarial
 Affable
-                    Affected (means artificial and pretentious)
+Affected
 Affectionate
 Affirmative
 Afraid
@@ -74,14 +86,19 @@ Agile
 Agitated
 Agonizing
 Agreeable
+Ahead
 Aimless
+Ajar
 Alarmed
 Alarming
+Alcoholic
 Alert
 Alien
 Alienated
+Alike
 Alive
 All-purpose
+Alleged
 Alluring
 Allusive
 Alone
@@ -94,12 +111,14 @@ Ambulant
 Ambulatory
 Amiable
 Amicable
+Amuck
 Amused
 Amusing
 Analytical
 Ancient
+Ancillary
 Anecdotal
-                    Anemic (doesn't really sound fun to play around with?)
+Anemic
 Angelic
 Angered
 Angry
@@ -126,12 +145,13 @@ Apprehensive
 Approachable
 Appropriate
 Approving
+Aquatic
 Ardent
 Arduous
 Argumentative
 Arid
 Aristocratic
-                    Aromatic (maybe, but I don't know that I want people trying to act that way...)
+Aromatic
 Arresting
 Arrogant
 Artful
@@ -150,6 +170,7 @@ Astounded
 Astounding
 Astringent
 Astute
+Asymptomatic
 Athletic
 Atrocious
 Attentive
@@ -168,13 +189,14 @@ Avenging
 Average
 Avian
 Avid
-                    Avoidable (do you want to be avoidable?)
+Avoidable
 Awake
 Aware
 Awe-struck
 Awesome
 Awful
 Awkward
+Axiomatic
 Babbling
 Backhanded
 Bad
@@ -182,16 +204,8 @@ Bad-tempered
 Baffled
 Baffling
 Balanced
-                    Bald (can you act this way very well?)
-                    Balding (ditto)
-
-
-
-
-
-
-
-
+Bald
+Balding
 Balmy
 Bandaged
 Banging
@@ -200,7 +214,7 @@ Banned
 Bantering
 Barbaric
 Barbarous
-Barbequed
+Barbecued
 Barefooted
 Barking
 Barren
@@ -208,6 +222,7 @@ Bashful
 Basic
 Battered
 Batty
+Bawdy
 Bawling
 Beady
 Beaming
@@ -239,7 +254,6 @@ Best
 Betrayed
 Better
 Better-late-than-never
-Betteroff
 Bewildered
 Bewildering
 Bewitched
@@ -267,6 +281,7 @@ Bitter
 Bizarre
 Black
 Black-and-blue
+Black-and-white
 Blamable
 Blameless
 Bland
@@ -295,6 +310,7 @@ Bloody
 Blooming
 Blossoming
 Blue
+Blue-eyed
 Blundering
 Blunt
 Blurred
@@ -398,7 +414,6 @@ Captive
 Carefree
 Careful
 Careless
-Careless 
 Caring
 Carnivorous
 Carpeted
@@ -518,7 +533,6 @@ Cohesive
 Coincidental
 Cold
 Cold-hearted
-Coldhearted
 Collaborative
 Collapsed
 Collapsing
@@ -600,6 +614,7 @@ Connectable
 Connected
 Connecting
 Connective
+Conniving
 Conscientious
 Conscious
 Consecutive
@@ -684,7 +699,6 @@ Courteous
 Covert
 Coveted
 Cowardly
-Cowardly 
 Cowering
 Coy
 Cozy
@@ -727,10 +741,10 @@ Cruel
 Crumbling
 Crumbly
 Crumply
-Crunchable
+Crunch-able
 Crunching
 Crunchy
-Crushable
+Crush-able
 Crushed
 Crusty
 Crying
@@ -759,7 +773,6 @@ Cute
 Cutting
 Cylindrical
 Cynical
-Cynical 
 Daffy
 Daft
 Daily
@@ -809,13 +822,13 @@ Decrepit
 Dedicated
 Deep
 Deepening
+Deeply
 Defeated
 Defective
 Defendable
 Defenseless
 Defensible
 Defensive
-Defensive 
 Deferential
 Defiant
 Deficient
@@ -881,11 +894,11 @@ Detestable
 Detrimental
 Devastated
 Devastating
+Devilish
 Devious
 Devoted
 Devout
 Dexterous
-Dextrous
 Diabolical
 Diagonal
 Didactic
@@ -919,7 +932,7 @@ Disapproving
 Disarming
 Disastrous
 Discarded
-Discernable
+Discernible
 Discerning
 Disciplined
 Disconnected
@@ -1028,6 +1041,7 @@ Downtown
 Downward
 Dozing
 Drab
+Draconian
 Drained
 Dramatic
 Drastic
@@ -1069,6 +1083,7 @@ Ear-piercing
 Ear-splitting
 Early
 Earnest
+Earsplitting
 Earthshaking
 Earthy
 East
@@ -1180,7 +1195,6 @@ Equitable
 Equivalent
 Erasable
 Erect
-Eroding
 Errant
 Erratic
 Erroneous
@@ -1197,6 +1211,7 @@ Ethical
 Ethnic
 Euphemistic
 Euphoric
+Evanescent
 Evasive
 Even
 Even-tempered
@@ -1278,6 +1293,7 @@ Extravagant
 Extreme
 Extroverted
 Exuberant
+Exultant
 Eye-popping
 Fabled
 Fabulous
@@ -1340,7 +1356,6 @@ Feckless
 Federal
 Feeble
 Feeble-minded
-Feebleminded
 Feeling
 Feigned
 Felonious
@@ -1356,7 +1371,7 @@ Fetching
 Fetid
 Feudal
 Feverish
-Few,
+Few
 Fewer
 Fictional
 Fictitious
@@ -1427,7 +1442,6 @@ Following
 Fond
 Foolhardy
 Foolish
-Foolish 
 Forbidding
 Forceful
 Foreboding
@@ -1473,6 +1487,7 @@ Freaky
 Freckled
 Free
 Freezing
+Frenetic
 Frequent
 Fresh
 Fretful
@@ -1517,13 +1532,13 @@ Fussy
 Futile
 Future
 Futuristic
-Fuzz
 Fuzzy
 Gabby
 Gainful
 Gallant
 Galling
 Game
+Gamy
 Gangly
 Gaping
 Garbled
@@ -1576,6 +1591,7 @@ Gluey
 Glum
 Gluttonous
 Gnarly
+Godly
 Gold
 Golden
 Good
@@ -1608,7 +1624,6 @@ Gregarious
 Grey
 Grieving
 Grim
-Grimacing
 Grimy
 Grinding
 Grinning
@@ -1641,6 +1656,7 @@ Gushing
 Gushy
 Gusty
 Gutsy
+Guttural
 Habitable
 Habitual
 Haggard
@@ -1651,6 +1667,7 @@ Halfhearted
 Hallowed
 Halting
 Handsome
+Handsomely
 Handy
 Hanging
 Haphazard
@@ -1689,6 +1706,7 @@ Heavy
 Hectic
 Hefty
 Heinous
+Hellish
 Helpful
 Helpless
 Her
@@ -1716,6 +1734,7 @@ Homeless
 Homely
 Homeopathic
 Homey
+Homicidal
 Homogeneous
 Honest
 Honking
@@ -1748,8 +1767,8 @@ Huge
 Huggable
 Hulking
 Human
+Human-like
 Humanitarian
-Humanlike
 Humble
 Humdrum
 Humid
@@ -1769,9 +1788,9 @@ Hydraulic
 Hydrothermal
 Hygienic
 Hyper-active
+Hyper-irritable
 Hyperbolic
 Hypercritical
-Hyperirritable
 Hypersensitive
 Hypertensive
 Hypnotic
@@ -1864,6 +1883,7 @@ Improving
 Imprudent
 Impulsive
 Impure
+In-eloquent
 Inaccessible
 Inaccurate
 Inactive
@@ -1872,7 +1892,6 @@ Inadmissible
 Inadvertent
 Inadvisable
 Inalienable
-Inalterable
 Inane
 Inanimate
 Inapplicable
@@ -1955,7 +1974,6 @@ Ineffective
 Ineffectual
 Inefficient
 Inelegant
-Ineloquent
 Inequitable
 Inert
 Inescapable
@@ -2093,6 +2111,7 @@ Introspective
 Introverted
 Intrusive
 Intuitive
+Inundated
 Invalid
 Invaluable
 Invasive
@@ -2245,6 +2264,7 @@ Lethal
 Lethargic
 Level
 Level-headed
+Lewd
 Liable
 Libelous
 Liberal
@@ -2257,6 +2277,7 @@ Light
 Light-blue
 Lighthearted
 Likable
+Like
 Like-minded
 Likeable
 Likely
@@ -2336,14 +2357,17 @@ Lurid
 Luscious
 Lush
 Lustrous
+Luxuriant
 Luxurious
 Lying
 Lyrical
 Macabre
+Macerative
 Machiavellian
 Macho
 Mad
 Maddening
+Madly
 Magenta
 Magic
 Magical
@@ -2376,7 +2400,7 @@ Manicured
 Manipulative
 Manly
 Manual
-Many,
+Many
 Marbled
 Marginal
 Marked
@@ -2466,6 +2490,7 @@ Miserable
 Miserly
 Misguided
 Misleading
+Misogynistic
 Mission
 Mistaken
 Mistrustful
@@ -2523,10 +2548,10 @@ Muddled
 Muddy
 Muffled
 Muggy
+Multi-talented
 Multicultural
 Multifaceted
 Multipurpose
-Multitalented
 Mumbled
 Mundane
 Municipal
@@ -2552,6 +2577,7 @@ Mystifying
 Mythical
 Naive
 Nameless
+Nappy
 Narcissistic
 Narrow
 Narrow-minded
@@ -2651,7 +2677,6 @@ Numerous
 Nutritional
 Nutritious
 Nutty
-OK
 Oafish
 Obedient
 Obeisant
@@ -2666,6 +2691,7 @@ Oblong
 Obnoxious
 Obscene
 Obscure
+Obsequious
 Observable
 Observant
 Obsessive
@@ -2677,13 +2703,14 @@ Obtrusive
 Obtuse
 Obvious
 Occasional
+Occidental
 Occupational
 Occupied
 Oceanic
 Odd
 Odd-looking
-Odiferous
 Odious
+Odoriferous
 Odorless
 Odorous
 Offbeat
@@ -2736,6 +2763,7 @@ Ordinary
 Organic
 Organizational
 Organized
+Oriental
 Original
 Ornamental
 Ornate
@@ -2844,6 +2872,7 @@ Peevish
 Pejorative
 Penetrable
 Penetrating
+Penitent
 Pensive
 Penurious
 Peppery
@@ -2892,6 +2921,7 @@ Pharmaceutical
 Phenomenal
 Philanthropic
 Philosophical
+Phlegmatic
 Phobic
 Phonemic
 Phonetic
@@ -2899,6 +2929,7 @@ Phosphorescent
 Photographic
 Physical
 Physiological
+Picayune
 Picky
 Picturesque
 Piercing
@@ -2920,6 +2951,7 @@ Plain
 Plain-speaking
 Plane
 Planned
+Plant
 Plastic
 Platonic
 Plausible
@@ -2964,7 +2996,7 @@ Portly
 Positive
 Possessive
 Possible
-Posthoc
+Post-hoc
 Posthumous
 Postoperative
 Potable
@@ -3140,6 +3172,7 @@ Quiet
 Quintessential
 Quirky
 Quivering
+Quixotic
 Quizzical
 Quotable
 Rabid
@@ -3150,7 +3183,7 @@ Radical
 Radioactive
 Ragged
 Raging
-Rainbowcolored
+Rainbow-colored
 Rainy
 Rakish
 Rambling
@@ -3196,6 +3229,7 @@ Reckless
 Reclusive
 Recognizable
 Recognized
+Recondite
 Rectangular
 Rectifiable
 Recurrent
@@ -3288,6 +3322,7 @@ Restless
 Restored
 Restrained
 Restrictive
+Reticent
 Retired
 Retroactive
 Retrogressive
@@ -3345,7 +3380,6 @@ Rotting
 Rotund
 Rough
 Round
-Roundtable
 Rousing
 Routine
 Rowdy
@@ -3367,6 +3401,7 @@ Rustling
 Rusty
 Ruthless
 Rutted
+Sable
 Saccharin
 Sacred
 Sacrificial
@@ -3656,12 +3691,10 @@ Snug
 Snuggly
 Soaked
 Soaking
-Soakingwet
 Soaring
 Sober
 Sociable
 Social
-Socialable
 Socialist
 Sociological
 Soft
@@ -3676,9 +3709,8 @@ Solid
 Solitary
 Somatic
 Somber
-Some,
+Some
 Sonic
-Sonly
 Soothed
 Soothing
 Sophisticated
@@ -3768,6 +3800,7 @@ Staggering
 Stagnant
 Staid
 Stained
+Staking
 Stale
 Stanch
 Standard
@@ -3822,7 +3855,6 @@ Stormy
 Stout
 Straggly
 Straight
-Straight-Forward
 Straight-forward
 Straightforward
 Stranded
@@ -3889,19 +3921,21 @@ Suggestive
 Suitable
 Sulky
 Sullen
+Sultry
 Summer
 Sumptuous
 Sunny
 Super
+Super-sensitive
 Superabundant
 Superb
 Supercilious
 Superficial
+Superfluous
 Superhuman
 Superior
 Superlative
 Supernatural
-Supersensitive
 Supersonic
 Superstitious
 Supple
@@ -3923,6 +3957,7 @@ Susceptible
 Suspected
 Suspicious
 Sustainable
+Svelte
 Swaggering
 Swanky
 Swaying
@@ -3982,6 +4017,7 @@ Tasty
 Tattered
 Taunting
 Taut
+Tawdry
 Taxing
 Teachable
 Tearful
@@ -4174,8 +4210,10 @@ Typical
 Tyrannical
 Tyrannous
 Ubiquitous
+Ugliest
 Ugly
 Ultimate
+Ultra
 Ultraconservative
 Ultrasensitive
 Ultrasonic
@@ -4210,6 +4248,7 @@ Unappealing
 Unappetizing
 Unappreciative
 Unapproachable
+Unarmed
 Unashamed
 Unassailable
 Unassertive
@@ -4687,6 +4726,7 @@ Voracious
 Vulgar
 Vulnerable
 Wacky
+Waggish
 Wailing
 Waiting
 Wakeful
@@ -4820,8 +4860,10 @@ Witless
 Witty
 Wizardly
 Wobbly
+Woebegone
 Woeful
 Wolfish
+Womanly
 Wonderful
 Wondrous
 Wonted
@@ -4839,8 +4881,8 @@ Workable
 Working
 Worldly
 Worn
-Worndown
-Wornout
+Worn-down
+Worn-out
 Worried
 Worrisome
 Worrying
@@ -4863,6 +4905,7 @@ Written
 Wrong
 Wrongful
 Wry
+Xenophobic
 Yawning
 Yearly
 Yearning
