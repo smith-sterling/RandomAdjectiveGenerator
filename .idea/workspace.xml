@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14788734-15fb-42e4-8bd8-08d043c23b0e" name="Changes" comment="Cleaned up the code a bit and got that no-repeat days stuff working">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="14788734-15fb-42e4-8bd8-08d043c23b0e" name="Changes" comment="Added functionality to add words for me from the command line now instead of having to open IntelliJ">
+      <change afterPath="$PROJECT_DIR$/src/History.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/adjectives.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/history.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/history.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/listOfDaysDone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/listOfDaysDone.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/masterList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/masterList.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/otherList.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/personAdjectives.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/untrimmedMasterList.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "smith-sterling"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0ee26761-11d2-416a-bb07-7e930231bb7a" />
+        <option name="url" value="https://github.com/smith-sterling/RandomAdjectiveGenerator.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -54,12 +68,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;aspect.path.notification.shown&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/sterlite/Desktop/PetProjects/randomAdjectiveGenerator&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -73,6 +89,13 @@
   <component name="RunManager" selected="Application.Add">
     <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Add" />
+      <module name="randomAdjectiveGenerator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="History" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="History" />
       <module name="randomAdjectiveGenerator" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,6 +134,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.History" />
       <item itemvalue="Application.Add" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
@@ -119,6 +143,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Add" />
+        <item itemvalue="Application.History" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -139,6 +164,11 @@
       <workItem from="1698259248379" duration="30000" />
       <workItem from="1698263916026" duration="4525000" />
       <workItem from="1698281020351" duration="100000" />
+      <workItem from="1698281214432" duration="76000" />
+      <workItem from="1705619880169" duration="290000" />
+      <workItem from="1706122335832" duration="2220000" />
+      <workItem from="1713882785936" duration="212000" />
+      <workItem from="1714667463613" duration="2250000" />
     </task>
     <task id="LOCAL-00001" summary="Pushing to github">
       <created>1675088693385</created>
@@ -182,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1682610083631</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added functionality to add words for me from the command line now instead of having to open IntelliJ">
+      <option name="closed" value="true" />
+      <created>1698281271703</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698281271703</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,14 +244,15 @@
     <MESSAGE value="updated the format of the history file and the writeToHistory method. &#10;Also generated a masterlist, and started trimming that down. That'll take a while though, and I'm mighty busy... it works for now..." />
     <MESSAGE value="I made files absolute paths because I wanted to run this from the terminal, and that seemed to make it work&#10;&#10;I also wanted to add a way to check that I haven't already gotten one today, and if so, just get that one" />
     <MESSAGE value="Cleaned up the code a bit and got that no-repeat days stuff working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up the code a bit and got that no-repeat days stuff working" />
+    <MESSAGE value="Added functionality to add words for me from the command line now instead of having to open IntelliJ" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added functionality to add words for me from the command line now instead of having to open IntelliJ" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>143</line>
+          <line>155</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>

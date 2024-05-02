@@ -136,6 +136,7 @@ Antsy
 Anxious
 Apathetic
 Apologetic
+Apostate
 Appalling
 Appealing
 Appetizing
@@ -159,6 +160,7 @@ Artificial
 Artistic
 Artless
 Ashamed
+Asinine
 Asleep
 Aspiring
 Assertive
@@ -377,6 +379,7 @@ Brutish
 Bubbly
 Budget
 Buff
+Built
 Built-in
 Bulky
 Bumpy
@@ -423,6 +426,7 @@ Cataclysmic
 Catastrophic
 Catatonic
 Catchable
+Cathartic
 Caustic
 Cautious
 Cavalier
@@ -1599,7 +1603,9 @@ Good-looking
 Good-natured
 Gooey
 Goofy
+Goopy
 Gorgeous
+Gouge-eye-out-with-spoon-bad
 Graceful
 Gracious
 Gradual
@@ -1712,6 +1718,7 @@ Helpless
 Her
 Heroic
 Hesitant
+Heuristic
 Hideous
 High
 High-functioning
@@ -1936,6 +1943,7 @@ Increasing
 Incredible
 Incredulous
 Incremental
+Incubating
 Incurable
 Indecent
 Indecipherable
@@ -1968,6 +1976,7 @@ Indolent
 Indomitable
 Inductive
 Indulgent
+Indurate
 Industrial
 Industrious
 Ineffective
@@ -2574,6 +2583,7 @@ Mystic
 Mystical
 Mystified
 Mystifying
+Mythic
 Mythical
 Naive
 Nameless
@@ -2864,6 +2874,7 @@ Payable
 Peaceable
 Peaceful
 Peculiar
+Pedagogical
 Pedantic
 Pedestrian
 Peerless
@@ -3008,6 +3019,7 @@ Powerless
 Practical
 Pragmatic
 Praiseworthy
+Pre-pubescent
 Precarious
 Precious
 Precipitous
@@ -3122,6 +3134,7 @@ Psychiatric
 Psychological
 Psychosomatic
 Psychotic
+Pubescent
 Public
 Puckish
 Puffy
@@ -3409,6 +3422,7 @@ Sacrilegious
 Sad
 Saddened
 Safe
+Sagacious
 Saintly
 Salacious
 Salient
@@ -3580,6 +3594,7 @@ Short-tempered
 Short-term
 Shortsighted
 Showy
+Shredded
 Shrewd
 Shrieking
 Shrill
@@ -3849,6 +3864,7 @@ Stirring
 Stock
 Stodgy
 Stoic
+Stolid
 Stone
 Stony
 Stormy
@@ -3985,6 +4001,7 @@ Synthetic
 Systematic
 Taboo
 Tacit
+Taciturn
 Tacky
 Tactful
 Tactical
