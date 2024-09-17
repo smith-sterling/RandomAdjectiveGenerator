@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14788734-15fb-42e4-8bd8-08d043c23b0e" name="Changes" comment="Added functionality to add words for me from the command line now instead of having to open IntelliJ">
-      <change afterPath="$PROJECT_DIR$/src/History.java" afterDir="false" />
+    <list default="true" id="14788734-15fb-42e4-8bd8-08d043c23b0e" name="Changes" comment="Remove old files and clean things up slightly">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/adjectives.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/history.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/history.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listOfDaysDone.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/listOfDaysDone.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/masterList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/masterList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/otherList.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/personAdjectives.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/untrimmedMasterList.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "smith-sterling"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;smith-sterling&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -168,7 +158,8 @@
       <workItem from="1705619880169" duration="290000" />
       <workItem from="1706122335832" duration="2220000" />
       <workItem from="1713882785936" duration="212000" />
-      <workItem from="1714667463613" duration="2250000" />
+      <workItem from="1714667463613" duration="2441000" />
+      <workItem from="1726595935111" duration="337000" />
     </task>
     <task id="LOCAL-00001" summary="Pushing to github">
       <created>1675088693385</created>
@@ -220,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698281271703</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Remove old files and clean things up slightly">
+      <option name="closed" value="true" />
+      <created>1714675266440</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714675266440</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,7 +244,8 @@
     <MESSAGE value="I made files absolute paths because I wanted to run this from the terminal, and that seemed to make it work&#10;&#10;I also wanted to add a way to check that I haven't already gotten one today, and if so, just get that one" />
     <MESSAGE value="Cleaned up the code a bit and got that no-repeat days stuff working" />
     <MESSAGE value="Added functionality to add words for me from the command line now instead of having to open IntelliJ" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added functionality to add words for me from the command line now instead of having to open IntelliJ" />
+    <MESSAGE value="Remove old files and clean things up slightly" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove old files and clean things up slightly" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

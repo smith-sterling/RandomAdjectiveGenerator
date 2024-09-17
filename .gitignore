@@ -1,5 +1,6 @@
 ### IntelliJ IDEA ###
-out/
+out/*
+!out/**/*.txt
 !**/src/main/**/out/
 !**/src/test/**/out/
 
